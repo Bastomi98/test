@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity {
         keluargaArrayList = new ArrayList<>();
         keluargaArrayList.add(new Keluarga("Sujito", "Bapak", R.drawable.bapak));
         keluargaArrayList.add(new Keluarga("Suryatin", "Ibu", R.drawable.ibuk));
-        keluargaArrayList.add(new Keluarga("Eka Priyananda", "Anak 1", R.drawable.anak1));
-        keluargaArrayList.add(new Keluarga("Dwi Bastomi", "Anak 2", R.drawable.anak2));
+        keluargaArrayList.add(new Keluarga("Eka Priyananda", "Anak Pertama", R.drawable.anak1));
+        keluargaArrayList.add(new Keluarga("Dwi Bastomi", "Anak Kedua", R.drawable.anak2));
     }
 }
